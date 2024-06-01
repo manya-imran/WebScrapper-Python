@@ -13,5 +13,5 @@ pip3 install requests-html
 pip3 install lxml_html_clean
 
 # Run the code
-python3 Scapper.py
+python3 Scraper.py
 ```
